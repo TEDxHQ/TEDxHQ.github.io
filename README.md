@@ -1,3 +1,3 @@
-# TEDxHQ.github.io
+# TEDxP.github.io
 
-> Website of the **TEDxHQ** community, hosted on **Github pages**.
+> Website of the **TEDxP** community, hosted on **Github pages**.
